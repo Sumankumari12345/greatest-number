@@ -28,6 +28,5 @@ void main()
           printf("%d is greatest.",c);
        }
    }
-
    getch();
 }
